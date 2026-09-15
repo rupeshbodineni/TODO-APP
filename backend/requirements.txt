@@ -1,0 +1,11 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+sqlalchemy==2.0.29
+pymysql==1.1.0
+cryptography==42.0.5
+pydantic==2.7.0
+pydantic-settings==2.2.1
+pyjwt==2.8.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+typing-extensions==4.11.0
