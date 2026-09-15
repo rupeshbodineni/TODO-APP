@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# React Native
+.metro/
+.expo/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.cxx/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
